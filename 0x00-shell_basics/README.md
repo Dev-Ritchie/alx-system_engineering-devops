@@ -1,1 +1,1 @@
-It moves the file betty from /tmp/ to /tmp/my_first_directory/
+It deletes the file betty
