@@ -1,1 +1,1 @@
-It displayes the third line of the file
+Creates a file
