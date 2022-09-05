@@ -1,1 +1,1 @@
-Creates a new file using ls -al
+Duplicate last line into a file
