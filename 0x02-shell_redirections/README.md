@@ -1,1 +1,1 @@
-It writes a script to print hello world
+It writes a scrip that prints a confused smiley
