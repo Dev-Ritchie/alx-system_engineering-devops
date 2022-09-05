@@ -1,1 +1,1 @@
-it displays the contebt of two files
+Displays the last 10 lines
