@@ -1,1 +1,1 @@
-it Create a script that removes all letters c and C from input.
+it Write a script that reverse its input
