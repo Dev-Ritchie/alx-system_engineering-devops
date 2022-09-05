@@ -1,1 +1,1 @@
-it Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+it counts the number of directories and sub directories in the curewnt directory
