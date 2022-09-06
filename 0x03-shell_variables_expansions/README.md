@@ -1,1 +1,1 @@
-creates a script that prints the number of directories jn $PATH
+create a script that is used to list environment variables
