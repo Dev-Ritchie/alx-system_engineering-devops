@@ -1,1 +1,1 @@
-it creates a scriot that prints hello user with the user name inputed there
+creates a script that add action to the path
