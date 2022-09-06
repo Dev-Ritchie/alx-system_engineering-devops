@@ -1,1 +1,1 @@
-creates a script used to list out local and evrionment variables
+creates a script used to create a variable
