@@ -1,1 +1,1 @@
-create a script that is used to list environment variables
+creates a script used to list out local and evrionment variables
