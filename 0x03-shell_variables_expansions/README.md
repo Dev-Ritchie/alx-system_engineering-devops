@@ -1,1 +1,1 @@
-creates a script that add action to the path
+creates a script that prints the number of directories jn $PATH
